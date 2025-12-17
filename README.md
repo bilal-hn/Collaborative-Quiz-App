@@ -18,13 +18,7 @@ A real-time multiplayer quiz application built with **Flutter** and **Firebase**
 * **Anonymous Login:** No sign-up required. Just enter a nickname and play.
 * **Cross-Platform:** Works on both Android and iOS.
 
-## 📸 Screenshots
 
-| Home Screen | Lobby (Host) | Gameplay | Scoreboard |
-|:---:|:---:|:---:|:---:|
-| <img src="screenshots/home.png" width="200"> | <img src="screenshots/lobby.png" width="200"> | <img src="screenshots/game.png" width="200"> | <img src="screenshots/score.png" width="200"> |
-
-> *Note: Upload your screenshots to a `screenshots` folder in your repo to make them appear here.*
 
 ## 🛠️ Tech Stack
 
